@@ -3,7 +3,8 @@
 Čau čau!
 Šis ir mans shared repo LU laboriem, ja ir kādas problēmas, kaut kas trūkst jeb kāds cits cilvēks grib piekļuvi, droši raksti
 
-P.S. Ja ir kādi faili, kurus arī vēlies pievienot, vari droši uztaisīt branch un es pievienošu main :3
+P.S. Ja ir kādi faili, kurus arī vēlies pievienot, vari droši uztaisīt fork un es pievienošu main :3
+P.P.S. pašam main lūdzu nelikt neko pa tiešo klāt
 
 -TB
 ≽^•⩊•^≼
