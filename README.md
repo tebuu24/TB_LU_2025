@@ -1,7 +1,7 @@
-# LU_2025
+# Author's note
 
 Čau čau!
-Šis ir mans shared repo LU laboriem un citiem koda fragmentiem.
+Šis ir mans shared repo LU laboriem un citiem koda fragmentiem. Visticamāk turpināšu updates arī nākamajā semestrī (ja izdzīvošu tīklu eksāmenu...). 
 Ja ir kādas problēmas, kaut kas trūkst jeb kāds cits cilvēks grib piekļuvi, droši raksti (var atvērt kkadu issue, ierakstīt discussion or smth)
     
 P.S. Ja ir kādi faili, kurus arī vēlies pievienot, vari droši uztaisīt fork un es pievienošu main :3
