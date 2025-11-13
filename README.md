@@ -1,7 +1,8 @@
 # LU_2025
 
 Čau čau!
-Šis ir mans shared repo LU laboriem, ja ir kādas problēmas, kaut kas trūkst jeb kāds cits cilvēks grib piekļuvi, droši raksti
+Šis ir mans shared repo LU laboriem un citiem koda fragmentiem.
+Ja ir kādas problēmas, kaut kas trūkst jeb kāds cits cilvēks grib piekļuvi, droši raksti (var atvērt kkadu issue, ierakstīt discussion or smth)
 
 P.S. Ja ir kādi faili, kurus arī vēlies pievienot, vari droši uztaisīt fork un es pievienošu main :3
 P.P.S. pašam main lūdzu nelikt neko pa tiešo klāt
